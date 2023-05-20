@@ -1,0 +1,11 @@
+.taskList{
+    display: flex;
+    flex-wrap: wrap;
+}
+.newTask{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    padding-bottom: 15px;
+    border-bottom: 1px dotted lightblue;
+}
